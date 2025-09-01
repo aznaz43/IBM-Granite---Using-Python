@@ -10,12 +10,12 @@ Dalam era digital saat ini, ulasan pelanggan memiliki peran yang sangat penting 
 Analisis terhadap review pelanggan tidak hanya bermanfaat untuk memahami kepuasan konsumen, tetapi juga dapat digunakan untuk mengidentifikasi kelebihan dan kekurangan restoran. Dengan melakukan analisis sentimen dan kategorisasi aspek (seperti pelaynan, harga, makanan), pemilik restoran dapat mengambil keputusan strategis untuk meningkatkan kualitas layanan dan produk yang ditawarkan.
 Oleh karena itu, analisis ulasan restoran dapat memberikan wawasan mendalam terkait preferensi konsumen, pola perilaku, serta faktor yang memengaruhi kepuasan pelanggan, yang pada akhirnya akan membantu meningkatkan daya saing bisnis di industri kuliner.
 
-#Tujuan Proyek
+# Tujuan Proyek
 1. Mengklasifikasikan data ulasan restoran berdasarkan sentiment positif dan negative atau berdasarkan kategori pelayanan, makanan, dan harga.
 2.	Melakukan summarization terhadap ulasan untuk mendapatkan informasi inti yang mewakili pendapat mayoraitas pelanggan.
 3.	Menyediakan insight berbasis data untuk membantu pemilik restoran dalam meningkatkan kualitas layanan dan pengalaman pelanggan.
 
-#Proses Analisis
+# Proses Analisis
 1. Memuat data
    - Dataset yang digunakan dari kaggla berisi 2.220 ulasan pelanggan restoran.
    - Untuk keperluan eksperimen, diambil 25 sampel ulasan pelanggan, mengingat     model IBM Granite memiliki batasan jumlah token per permintaan.
@@ -29,7 +29,7 @@ Oleh karena itu, analisis ulasan restoran dapat memberikan wawasan mendalam terk
 5. Visualisasi Data
    - Untuk mempermudah pemahaman hasil analisis
   
-#Kesimpulan
+# Kesimpulan
 Berdasarkan analisis terhadap 25 ulasan pelanggan restoran menggunakan IBM Granite untuk klasifikasi sentimen dan summarisasi, diperoleh hasil sebagai berikut :
 1. Distribusi Sentimen Keseluruhan
    - Negatif : 12 ulasan
@@ -50,7 +50,7 @@ Berdasarkan analisis terhadap 25 ulasan pelanggan restoran menggunakan IBM Grani
 
 "Restoran mendapatkan ulasan campuran dengan keunggulan pada suasana dan menu tertentu, namun memiliki kelemahan signifikan pada kualitas makananan, konsistensi pelayanan, dan harga. Pihak restoran perlu fokus melakukan penignkatan kualitas makanan, pelayanan serta mengvaluasi harga untuk meniingkatkan kualitas agar pelanggan kembali ke restoran. "
 
-#Saran
+# Saran
 1. Memperbaiki Kualitas Mananan
    Memastikan bahan yang digunakan segar dan berkualitas. Menerapkan prosedur kebersihan yang ketat di dapur untuk menghindari keluhan terkait keberihan pada makanan.
 2. Memperbaiki Layanan Pelanggan

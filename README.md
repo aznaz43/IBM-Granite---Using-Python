@@ -1,11 +1,11 @@
 # IBM-Garanite---Using-Python
 
-#Pemanfaatan IBM Granite untuk Analisis Review Restaurant dan Strategi Peningkatan Layanan
+# Pemanfaatan IBM Granite untuk Analisis Review Restaurant dan Strategi Peningkatan Layanan
 
 Proyek Capstone IBM SkillBuild
 Dataset yang digunakan :  https://www.kaggle.com/datasets/moazeldsokyx/restaurant-reviews
 
-#Latar Belakang
+# Latar Belakang
 Dalam era digital saat ini, ulasan pelanggan memiliki peran yang sangat penting dalam membentuk persepsi dan keputusan konsumen. Sebelum memilih restoran, sebagian besar pelanggan mencari informasi dari platform online seperti Google Review media sosial untuk memastikan kualitas makanan, pelayanan, kebersihan, serta harga. Ulasan ini menjadi indikator kepuasan pelanggan sekaligus sarana evaluasi bagi pemilik usaha.
 Analisis terhadap review pelanggan tidak hanya bermanfaat untuk memahami kepuasan konsumen, tetapi juga dapat digunakan untuk mengidentifikasi kelebihan dan kekurangan restoran. Dengan melakukan analisis sentimen dan kategorisasi aspek (seperti pelaynan, harga, makanan), pemilik restoran dapat mengambil keputusan strategis untuk meningkatkan kualitas layanan dan produk yang ditawarkan.
 Oleh karena itu, analisis ulasan restoran dapat memberikan wawasan mendalam terkait preferensi konsumen, pola perilaku, serta faktor yang memengaruhi kepuasan pelanggan, yang pada akhirnya akan membantu meningkatkan daya saing bisnis di industri kuliner.
